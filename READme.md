@@ -12,4 +12,4 @@ pip install --upgrade you-get
 然后是下载视频命令行，在cmd中输入下面的代码：（下面的url指的是你想要下载视频的地址，该地址就是打开网页在线视频时，最上面网址栏的地址）
 you-get url更多关于you-get的使用请看： https://www.cnblogs.com/ys-wuhan/p/6057526.htmlyou-get的源代码在
   git://github.com/soimort/you-get.git
-### 另外一个文件是python利用you-get下载批量视频的
+[### 另外一个文件是python利用you-get下载批量视频的](https://github.com/xiaowei3223/python-you-get-/blob/master/python%E5%88%A9%E7%94%A8you-get%E4%B8%8B%E8%BD%BD%E6%89%B9%E9%87%8F%E8%A7%86%E9%A2%91.py)
